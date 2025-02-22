@@ -24,4 +24,4 @@ The dataset includes information on:
 ## 📌 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/msc-marin/ecommerce-insights.git
+   git clone https://github.com/msc-marin/ecommerce-transactions-insights.git
