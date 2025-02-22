@@ -13,7 +13,7 @@ This project leverages data from the [Marketing Insights for E-Commerce Company]
 ## 🛠️ Technologies
 - **Data Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Recommendation Models**: Scikit-learn, Surprise
-- **Machine Learning & AI**: Collaborative filtering, content-based models, hybrid approaches.
+- **Machine Learning & AI**: Collaborative filtering, content-based models, hybrid approaches, KNN, KMeans, NN
 
 ## 📂 Dataset
 The dataset includes information on:
